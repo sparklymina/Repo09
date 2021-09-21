@@ -1,6 +1,6 @@
 // Only change code below this line
 function logicalAndOperator(num){
-if (40 <= num && num < 80) {
+if (40 <= num && num <= 80) {
     return "Yes";
 }
     return "No";
