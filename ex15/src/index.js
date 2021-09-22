@@ -8,8 +8,7 @@ function myDoWhile() {
         else {myNumbers += i + ", ";
             i++;
         }
-    }
- while (i<10);
+    } while (i<10);
  return myNumbers;
 }
 var i = 0;

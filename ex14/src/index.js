@@ -20,7 +20,7 @@ function myForLoop2() {
                 evenInverseNumbers += i;
             }
             else {
-            evenInverseNumbers += i + ", ";
+                evenInverseNumbers += i + ", ";
         }
     } 
 }
